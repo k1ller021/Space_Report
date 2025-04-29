@@ -39,6 +39,10 @@ Config = {}
 
 -- Webhook do seu canal no Discord
 Config.Webhook = '![image](https://github.com/user-attachments/assets/d27abd5f-6192-4fa8-8bf1-a33c590364d9)
+
+configure os cargos mecionados
+![image](https://github.com/user-attachments/assets/a6b8b9b3-62db-4c2d-b404-188df18409c0)
+
 '
 
 -- Grupos de admin que receberão a notificação ingame
@@ -53,9 +57,12 @@ O script usa grupos ESX (xPlayer.getGroup()), então verifique se seus administr
 📷 Prévia
 Ingame (admin):
 Notificação aparece no canto da tela com nome e ID do jogador.
-https://cdn.discordapp.com/attachments/1366868452823928862/1366868536752078908/image.png?ex=68128306&is=68113186&hm=091076e476ff14f498524bad3c888d5e2e30ac9b20f480fc0660d73d8993f3df&
-https://cdn.discordapp.com/attachments/1366868452823928862/1366868610756120626/image.png?ex=68128317&is=68113197&hm=34790d69172d5350de5c4a78079aa672633e665477f442b84f2226ce93c011b2&
-https://cdn.discordapp.com/attachments/1366868452823928862/1366868756025839617/image.png?ex=6812833a&is=681131ba&hm=bf7e22704237cddf03701b95904a56cd399adf9dd6b42828eaf00ca69349db46&
+![image](https://github.com/user-attachments/assets/ad50f11d-5618-4a31-8460-4cbdb3cf4cc5)
+
+![image](https://github.com/user-attachments/assets/fce250d5-0ecb-45ac-9bfc-d80ab2ad0cdc)
+
+![image](https://github.com/user-attachments/assets/55f4d398-e5fc-46e0-8df0-37ac99a3683a)
+
 
 Discord:
 Mensagem formatada com título, descrição e menciona @everyone e <@&1354842354883760239> (cargo específico).
