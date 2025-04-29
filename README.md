@@ -62,7 +62,8 @@ Notificação aparece no canto da tela com nome e ID do jogador.
 
 ![image](https://github.com/user-attachments/assets/fce250d5-0ecb-45ac-9bfc-d80ab2ad0cdc)
 
-![image](https://github.com/user-attachments/assets/55f4d398-e5fc-46e0-8df0-37ac99a3683a)
+![image](https://github.com/user-attachments/assets/b626830e-a636-4050-a631-151257599d17)
+
 
 
 Discord:
