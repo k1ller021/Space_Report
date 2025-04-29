@@ -15,7 +15,6 @@ Suporte à permissão de grupos via ESX.
 🧩 Requisitos
 ox_lib
 
-ESX Legacy
 
 🛠️ Instalação
 Copie a pasta space_report para a sua pasta de recursos (resources/[local] por exemplo).
