@@ -10,7 +10,7 @@ Envio automático para webhook no Discord, com menção a @everyone e cargos esp
 
 Notificação ingame para administradores online usando ox_lib:notify.
 
-Suporte à permissão de grupos via ESX.
+Suporte à permissão de grupos.
 
 🧩 Requisitos
 ox_lib
